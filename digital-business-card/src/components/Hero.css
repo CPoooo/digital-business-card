@@ -1,12 +1,15 @@
 .hero {
     width: 100vw;
-    height: 250px;
+    min-height: 250px;
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 70px;
     flex-direction: column;
+    position: relative;
+    z-index: 1;
 }
+
 
 .hero-img {
     width: 50%;

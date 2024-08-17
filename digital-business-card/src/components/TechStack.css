@@ -1,0 +1,26 @@
+h1 {
+    color: white;
+}
+
+.techstack-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.tech-logos {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #00ADB5;
+    border-radius: 100%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
