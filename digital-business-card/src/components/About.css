@@ -1,0 +1,16 @@
+.about-container h1 {
+    color: white;
+    margin: 10px;
+}
+
+.about-container h3 {
+    margin: 10px;
+    color: white;
+}
+
+.about-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
