@@ -1,0 +1,19 @@
+.hero {
+    width: 100vw;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+    flex-direction: column;
+}
+
+.hero-img {
+    width: 50%;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.hero > h2 {
+    color: white;
+}
